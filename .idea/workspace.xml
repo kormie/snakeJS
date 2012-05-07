@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89381245-b5b0-427c-a4c7-e7b15632d904" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/snakeJS.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/src/test/javascript/src/Snake.js" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/jasmine_standalone_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/src/main/html/game.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/html/game.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/javascript/html/GameBoard.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/javascript/html/SnakeGame.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/javascript/GameBoardTest.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/GameBoardTest.java" afterPath="$PROJECT_DIR$/main/src/test/javascript/src/GamePlay.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/test/javascript/src/GameBoard.js" afterPath="$PROJECT_DIR$/main/src/test/javascript/src/GameBoard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/test/javascript/src/GamePlay.js" afterPath="$PROJECT_DIR$/main/src/test/javascript/src/GamePlay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/test/javascript/src/Snake.js" afterPath="$PROJECT_DIR$/main/src/test/javascript/src/Snake.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/test/javascript/test/GameBoardTest.js" afterPath="$PROJECT_DIR$/main/src/test/javascript/test/GameBoardTest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/web/html/game.html" afterPath="$PROJECT_DIR$/main/src/web/html/game.html" />
     </list>
     <ignored path="snakeJS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,7 +73,16 @@
       <file leaf-file-name="GameBoard.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/src/test/javascript/src/GameBoard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+            <state line="4" column="32" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GamePlay.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/src/test/javascript/src/GamePlay.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="49" selection-start="137" selection-end="137" vertical-scroll-proportion="0.03875969">
               <folding />
             </state>
           </provider>
@@ -85,19 +91,8 @@
       <file leaf-file-name="GameBoardTest.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/src/test/javascript/test/GameBoardTest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="26" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
+            <state line="11" column="11" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GamePlay.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/src/test/javascript/src/GamePlay.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -105,7 +100,7 @@
       <file leaf-file-name="Snake.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/src/test/javascript/src/Snake.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="15" column="70" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -120,10 +115,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="game.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="game.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/src/web/html/game.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="5" selection-start="315" selection-end="315" vertical-scroll-proportion="0.16">
+            <state line="6" column="108" selection-start="409" selection-end="409" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
@@ -143,10 +138,13 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/main/src/test/javascript/SpecRunner.html" />
         <option value="$PROJECT_DIR$/main/src/test/javascript/test/GameBoardTest.js" />
-        <option value="$PROJECT_DIR$/main/src/test/javascript/src/GamePlay.js" />
         <option value="$PROJECT_DIR$/main/src/web/html/game.html" />
+        <option value="$PROJECT_DIR$/main/src/web/css/gameBoard.css" />
+        <option value="$PROJECT_DIR$/main/src/test/javascript/src/GamePlay.js" />
         <option value="$PROJECT_DIR$/main/src/test/javascript/src/GameBoard.js" />
+        <option value="$PROJECT_DIR$/main/src/test/javascript/src/Snake.js" />
       </list>
     </option>
   </component>
@@ -445,10 +443,10 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2074806" sideWeight="0.5505618" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2074806" sideWeight="0.670412" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -530,13 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/test/javascript/src/Snake.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main/src/test/javascript/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -544,32 +535,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/web/html/game.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="108" selection-start="409" selection-end="409" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/web/css/gameBoard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="1" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/test/javascript/src/GameBoard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="32" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main/src/test/javascript/test/GameBoardTest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
+        <state line="11" column="11" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/test/javascript/src/Snake.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="70" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/src/test/javascript/src/GamePlay.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/test/javascript/src/GameBoard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/web/html/game.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="5" selection-start="315" selection-end="315" vertical-scroll-proportion="0.16">
+        <state line="2" column="49" selection-start="137" selection-end="137" vertical-scroll-proportion="0.03875969">
           <folding />
         </state>
       </provider>
