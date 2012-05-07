@@ -1,0 +1,18 @@
+<style type="text/css">
+table {
+    border-width: 1px;
+    border-color: green;
+    border-collapse: collapse;
+}
+
+table td {
+    width: 20px;
+    height: 20px;
+    border-width: 1px;
+    padding: 0px;
+    border-style: solid;
+    border-color: blue;
+    background-color: grey;
+}
+</style>
+

@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
-<<<<<<< HEAD
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/snakeJS.iml" filepath="$PROJECT_DIR$/.idea/snakeJS.iml" />
     </modules>
-=======
-    <modules />
->>>>>>> e4f288ca4fb1b11a76bd4b7fa7acf8bac8a3e98f
   </component>
 </project>
 

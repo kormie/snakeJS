@@ -1,10 +1,14 @@
 describe( "Game Board", function () {
     describe("should create a game board", function(){
-        it("where the top left square has a value of A0", function(){
-            expect(board[0][0]).toEqual("A0");
+        initializeBoard();
+        it("which has 20 rows and columns", function(){
+            var table = document.getElementById("gameBoard");
+            var rows = table.rows.length;
+            expect(rows).toEqual(20);
         });
-        it("and the bottom right square has a value of T19", function(){
-            expect(board[19][19].toEqual("T19"));
+        it("which contains a snake", function(){
+            initializeItem()
+
         });
     });
 });
